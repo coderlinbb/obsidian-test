@@ -140,13 +140,21 @@
                 "file": "Welcome.md"
               }
             }
+          },
+          {
+            "id": "eec9496e7db26789",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46d4a93639edbc0d",
+  "active": "2e1535e6b42babc1",
   "lastOpenFiles": [
     "未命名 1.canvas",
     "Welcome.md",
