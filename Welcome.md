@@ -6,3 +6,4 @@ When you're ready, delete this note and make the vault your own.吗
 测试中。。。。
 asc
 \hahha
+![[Pasted image 20240502113354.png]]

@@ -11,11 +11,11 @@
             "id": "f6fecf71e3716cc5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore",
-                "staged": false,
-                "hash": "ca4d4ae4386c60129243d2e1912fc55ed83d5bc6"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           },
           {
@@ -172,6 +176,8 @@
   },
   "active": "f6fecf71e3716cc5",
   "lastOpenFiles": [
+    "image/Pasted image 20240502113354.png",
+    "image",
     "Welcome.md",
     "未命名 1.canvas",
     "未命名 6.canvas",
