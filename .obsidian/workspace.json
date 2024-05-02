@@ -31,28 +31,6 @@
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e32577194dd11c9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "76e2c0feab0e874e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          }
         ]
       }
     ],
@@ -180,7 +158,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "05220395cb96b789",
+  "active": "46d4a93639edbc0d",
   "lastOpenFiles": [
     "未命名 1.canvas",
     "Welcome.md",
