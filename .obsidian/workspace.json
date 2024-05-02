@@ -11,11 +11,11 @@
             "id": "f6fecf71e3716cc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": ".gitignore",
+                "staged": false,
+                "hash": "ca4d4ae4386c60129243d2e1912fc55ed83d5bc6"
               }
             }
           },
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,9 +144,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "3300a6d7a7090c30",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,10 +170,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e1535e6b42babc1",
+  "active": "f6fecf71e3716cc5",
   "lastOpenFiles": [
-    "未命名 1.canvas",
     "Welcome.md",
+    "未命名 1.canvas",
     "未命名 6.canvas",
     "未命名 5.canvas",
     "未命名 4.canvas",
